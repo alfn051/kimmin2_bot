@@ -2,7 +2,7 @@ import asyncio, discord
 from discord.ext import commands
 import random
 
-Token = "NjM5MTgxODc1NDkxMTEwOTIy.Xbnigg.AhP-1c-gPnlBrXeEvFkrLwOO4EU"
+Token = ""
 
 intents = discord.Intents.default()
 bot = commands.Bot(command_prefix='김민 ', intents=intents)
